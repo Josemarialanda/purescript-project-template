@@ -1,5 +1,5 @@
 {
-  "name": "purescript-template",
+  "name": "purescript-project-template",
   "version": "0.0.1",
   "description": "Template for a Purescript project using nix flake",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "watch": "spago build --watch",
     "test": "spago test"
   },
-  "author": "Takafumi Asano <cariandrum22@gmail.com>",
+  "author": "José María Landa Chávez <josemaria.landa@gmail.com>",
   "license": "Apache-2.0",
   "licenses": [
     {
