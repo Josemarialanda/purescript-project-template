@@ -1,1 +1,1 @@
-# purescript-template
+# purescript-project-template
